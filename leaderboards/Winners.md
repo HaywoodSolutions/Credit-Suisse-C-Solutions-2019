@@ -16,8 +16,8 @@ University Winner: Queen Mary and Westfield College, University of London
 
 <p align="center">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/31444236?v=4">
-  <img align="left" width="75px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
-  <img align="left" width="75px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
+  <img align="left" width="50px" radius="25px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
+  <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
 </p>
 <br>
 
