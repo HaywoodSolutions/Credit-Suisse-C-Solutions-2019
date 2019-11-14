@@ -1,9 +1,9 @@
 # Global
 The Global Coding Champion is Emanuele Marsicano [@EmanueleFWM](https://github.com/EmanueleFWM)
 
-![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200){s}
-![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200 | width=100)){s}
-![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200 =250x250)){s}
+![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&s=200){s}
+![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&s=200 | width=100)){s}
+![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&s=200 =250x250)){s}
 ![](https://avatars3.githubusercontent.com/u/31444236?s=40&v=4){:height="36px" width="36px"}.
 
 The Global University Winners are ETH Zürich.
@@ -14,6 +14,16 @@ Top 3 coders:
 2nd: Costin-Razvan Tudor [@tudor47](https://github.com/tudor47)
 3rd: Yuhang Zhang [@YZ6565785](https://github.com/YZ6565785)
 University Winner: Queen Mary and Westfield College, University of London
+
+---
+
+<p>
+  <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/31444236?v=4">
+  <img align="left" width="75px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
+  <img align="left" width="75px" src="https://avatars3.githubusercontent.com/u/31444236?v=4"> 
+</p>
+
+---
 
 # United States of America
 Top 3 coders:
