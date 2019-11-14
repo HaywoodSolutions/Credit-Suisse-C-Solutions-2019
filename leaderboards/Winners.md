@@ -22,6 +22,7 @@ University Winner: Queen Mary and Westfield College, University of London
 
 ---
 
+
 # United States of America
 Top 3 coders:
 
