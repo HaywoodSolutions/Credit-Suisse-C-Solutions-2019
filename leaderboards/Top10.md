@@ -1,7 +1,7 @@
 # Leaderboard Top 10 Global (4514 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score
 |1|Emanuele Marsicano|ETHZ - ETH Zurich|81.78|51.63|55.47|26.05|63.63|44.34|322.90
 |2|Madhur Chauhan|Indian School of Mines (ISM)|88.00|73.96|47.21|25.24|6.85|68.88|310.16
@@ -32,7 +32,7 @@
 # Leaderboard Top 10 UK (531 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 |1|Sam Gao|University College London, University of London|94.39|98.14|72.03|38.65|61.03|86.63|450.87|
 |2|Costin-Razvan Tudor|University of Cambridge|62.72|61.38|52.40|22.82|51.33|51.22|301.87|
 |3|Yuhang Zhang|Queen Mary and Westfield College, University of London|47.06|47.52|64.52|37.59|24.88|58.04|279.61|
@@ -47,7 +47,7 @@
 # Leaderboard Top 10 US (654 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 |1|Loc Bui|University of Rochester|85.65|53.76|90.78|58.17|68.44|95.33|452.13
 |2|Mohit Vinchoo|North Carolina State University|92.54|88.14|44.33|39.34|42.38|36.97|343.69
 |3|Vladimir Maksimovski|University of Rochester|77.54|85.31|45.60|46.36|40.10|28.29|323.20
@@ -62,7 +62,7 @@
 # Leaderboard Top 10 India (3138 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 1|Ankur Dua|Indian Institute of Technology, ISM Dhanbad|89.18|76.61|67.58|26.21|86.19|51.60|397.36
 2|Madhur Chauhan|Indian School of Mines (ISM)|89.70|73.96|83.79|27.33|20.49|72.34|367.62
 3|Utkarsh Agarwal|Indian Institute of Technology, ISM Dhanbad|67.02|47.19|56.35|15.41|0.00|94.52|280.49
@@ -77,7 +77,7 @@
 # Leaderboard Top 10 Switzerland (42 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 1|Emanuele Marsicano|ETHZ - ETH Zurich|100.00|96.41|83.51|79.84|95.67|69.14|524.56
 2|Michael Wiegner|ETHZ - ETH Zurich|50.82|59.33|60.97|43.60|59.08|53.84|327.65
 3|Wen-Chieh Tung|ETHZ - ETH Zurich|59.67|66.99|60.18|49.52|11.71|70.79|318.85
@@ -92,7 +92,7 @@
 # Leaderboard Top 10 Poland (155 Participants)
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
-|:----:|:----|:----------|:--:|:--:|:--:|:--:|:--:|:--:|:-----:|
+|:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
 1|Paweł Majewski|Technical University of Czestochowa|76.30|87.77|58.95|34.63|39.35|32.14|329.14
 2|Paweł Kolak|Technical University of Wroclaw|84.91|33.49|68.45|54.67|29.33|53.10|323.95
 3|Dominik Ruman|Technical University of Rzeszow|96.18|41.62|29.54|28.63|30.00|73.77|299.75
