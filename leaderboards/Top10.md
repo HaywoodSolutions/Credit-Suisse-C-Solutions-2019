@@ -108,7 +108,7 @@
 
 |Rank|Name|University|Region|Number of referrals|Combined score|Multiplying factor|Score|
 |:----:|:----|:----------|:--|:--|:--|:--|:--|
-1|Tom Haywood|University of Kent at Canterbury|UK and ROI|151|228.58|2.51|573.73
+**1**|**Tom Haywood**|**University of Kent at Canterbury**|**UK and ROI**|**151**|**228.58**|**2.51**|**573.73**
 2|Sahil Mehta|North Carolina State University|USA|2|343.69|1.02|350.57
 3|Karol Kaszuba|University of Warsaw|PL|60|172.76|1.60|276.42
 4|Arjun Nemani|International Institute of Information Technology|IN|28|26.53|1.28|33.96
