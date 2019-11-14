@@ -2,7 +2,6 @@
 
 |Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score|
 |:----:|:----|:----------|:--|:--|:--|:--|:--|:--|:-----|
-|Rank|Name|University|Q1|Q2|Q3|Q4|Q5|Q6|Score
 |1|Emanuele Marsicano|ETHZ - ETH Zurich|81.78|51.63|55.47|26.05|63.63|44.34|322.90
 |2|Madhur Chauhan|Indian School of Mines (ISM)|88.00|73.96|47.21|25.24|6.85|68.88|310.16
 |3|Ankur Dua|Indian Institute of Technology, ISM Dhanbad|87.61|76.61|38.06|22.57|28.19|46.19|299.23
