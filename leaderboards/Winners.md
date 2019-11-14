@@ -5,6 +5,7 @@ The Global University Winners are ETH Zürich.
 
 <p align="center">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/20737463?v=4">
+  .
 </p>
 <br>
 
@@ -23,6 +24,7 @@ University Winner: Queen Mary and Westfield College, University of London
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/543907?v=4">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/39092730?v=4"> 
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/44179240?v=4"> 
+  .
 </p>
 <br>
 
@@ -41,6 +43,7 @@ University Winner: University of Rochester
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/35650670?v=4">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/47811202?v=4"> 
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/12010235?v=4"> 
+  .
 </p>
 <br>
 
@@ -59,6 +62,7 @@ University Winner: Indian Institute of Technology, ISM Dhanbad
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/11928614?v=4">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/29328609?v=4"> 
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/31444236?v=4"> 
+  .
 </p>
 <br>
 
@@ -77,6 +81,7 @@ University Winner: Technical University of Czestochowa
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/41754458?v=4">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/17504900?v=4"> 
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/6028276?v=4"> 
+  .
 </p>
 <br>
 
@@ -93,7 +98,8 @@ University Winner: ETH Zürich
 <p align="center">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/20737463?v=4">
   <img align="left" width="50px" src="https://avatars3.githubusercontent.com/u/43748245?v=4"> 
-  <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/11660321?v=4"> 
+  <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/11660321?v=4">
+  . 
 </p>
 <br>
 
