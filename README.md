@@ -8,4 +8,4 @@ This time I acheived:
 1. **6th in the UK** out of 531 participants
 2. **23rd Globally** out of 4514 participants
 
-Also I do have the full [leaderboards](./leaderboards/Top 10s.md) and [winners](./leaderboards/Winners.md).
+Also I do have the full [leaderboards](./leaderboards/Top10.md) and [winners](./leaderboards/Winners.md).
