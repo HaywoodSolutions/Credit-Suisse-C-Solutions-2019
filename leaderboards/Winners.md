@@ -8,8 +8,6 @@ The Global Coding Champion is Emanuele Marsicano [@EmanueleFWM](https://github.c
 
 The Global University Winners are ETH Zürich.
 
----
-
 # United Kingdom and Republic of Ireland
 Top 3 coders:
 
@@ -27,8 +25,6 @@ University Winner: Queen Mary and Westfield College, University of London
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/44179240?v=4"> 
 </p>
 <br>
-
----
 
 # United States of America
 Top 3 coders:
@@ -48,8 +44,6 @@ University Winner: University of Rochester
 </p>
 <br>
 
----
-
 # India
 Top 3 coders:
 
@@ -67,8 +61,6 @@ University Winner: Indian Institute of Technology, ISM Dhanbad
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/31444236?v=4"> 
 </p>
 <br>
-
----
 
 # Poland
 Top 3 coders:
@@ -88,8 +80,6 @@ University Winner: Technical University of Czestochowa
 </p>
 <br>
 
----
-
 # Switzerland
 Top 3 coders:
 
@@ -106,8 +96,6 @@ University Winner: ETH Zürich
   <img align="left" width="50px" src="https://avatars2.githubusercontent.com/u/11660321?v=4"> 
 </p>
 <br>
-
----
 
 # Referrals 
 Top Referer
