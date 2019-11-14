@@ -4,7 +4,7 @@ The Global Coding Champion is Emanuele Marsicano [@EmanueleFWM](https://github.c
 ![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200){s}
 ![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200 | width=100)){s}
 ![alt text](https://avatars3.githubusercontent.com/u/31444236?v=4&&s=200 =250x250)){s}
-![](https://avatars3.githubusercontent.com/u/31444236?s=40&v=4)
+![](https://avatars3.githubusercontent.com/u/31444236?s=40&v=4){:height="36px" width="36px"}.
 
 The Global University Winners are ETH Zürich.
 
