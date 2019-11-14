@@ -93,6 +93,7 @@ Top 3 coders:
 2nd: Michael Wiegner [@mwiegner](https://github.com/mwiegner)
 
 3rd: Wen-Chieh Tung [@WJTung](https://github.com/WJTung)
+
 University Winner: ETH Zürich
 
 <p align="center">
